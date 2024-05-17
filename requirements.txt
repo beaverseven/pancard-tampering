@@ -4,3 +4,4 @@ opencv-python
 Pillow
 scikit-image
 numpy
+gunicorn
