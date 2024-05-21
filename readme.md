@@ -1,3 +1,5 @@
+This project allows you to detect if a pancard/ID card has been tampered with by comparing an original pancard with that of a tampered one. This project utilizes computer vision, specifically skimage, cv2, and PIL.
+
 Step to run application:
 Step 1:	Create the copy of the project.
 Step 2: Open command prompt and change your current path 
